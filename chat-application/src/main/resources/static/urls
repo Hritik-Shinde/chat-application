@@ -1,0 +1,3 @@
+to connect to server use : /server 
+to send message use : /app/message
+to subscribe/ to receive message : /topic/get 
